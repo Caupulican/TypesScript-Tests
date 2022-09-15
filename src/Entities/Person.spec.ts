@@ -1,4 +1,3 @@
-import { isatty } from 'tty'
 import { expect, test } from 'vitest' 
 import { Person } from './Person'
 test('Create a Person',()=>{
